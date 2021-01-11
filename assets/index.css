@@ -1,0 +1,16 @@
+.navbar {
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    float: left;
+    width: 86%;
+}
+
+li {
+    float: right;
+    width: 45%;
+}
