@@ -7,10 +7,29 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     float: left;
-    width: 86%;
+    width: 90%;
 }
 
 li {
     float: right;
     width: 45%;
+}
+
+section {
+    height: 500px;
+    width: 70%;
+    background-color: white;
+    margin-left: 20px;
+    padding: 0px 100px 0px 50px;
+}
+
+header {
+    color: crimson;
+    font-size: 46px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 30px;
+}
+
+button {
+    margin-top: 20px;
 }
