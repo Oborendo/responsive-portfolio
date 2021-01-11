@@ -14,3 +14,19 @@ li {
     float: right;
     width: 45%;
 }
+
+section {
+    height: 500px;
+    width: 70%;
+    background-color: white;
+    margin-left: 20px;
+    padding: 0px 100px 0px 50px;
+}
+
+.col {
+    background-color: lightgray;
+    height: 350px;
+    width: 350px;
+    padding: 20px;
+    margin: 20px;
+}
